@@ -1,5 +1,3 @@
-# Fashion_Image_using_Generative_Adversarial_Networks-GAN-
+# Generative Adversial Network
 
-• Created a GAN with TensorFlow to generate fashion images, employing LeakyReLU and dropout layers for improved results.
-• Orchestrated a GAN training regimen over 1800 epochs, implementing binary cross-entropy loss and Adam optimization,
-demonstrating adeptness in hyperparameter tuning and model convergence techniques.
+This project is a TensorFlow-based Generative Adversarial Network (GAN) that generates fashion images inspired by the Fashion MNIST dataset. It employs a GAN architecture with a generator and discriminator to create and evaluate fashion images. The generator learns to create new images, while the discriminator learns to distinguish real from generated ones. The project includes data preprocessing, model training, and image generation. It's a great example of using GANs for creative image generation tasks.
